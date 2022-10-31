@@ -40,8 +40,9 @@
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.task-wrapper {
   display: flex;
+  margin: 20px 0 0;
 }
 
 ul {
@@ -103,10 +104,6 @@ button{
 }
 
 /* New Task */
-.new-task {
-  display: block;
-  margin: 0 0 20px;
-}
 
 #new-task {
   width: 318px;
